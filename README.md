@@ -24,3 +24,6 @@ smartctl -i /dev/sda
 Beware that Arch is not designed for people who are new to Linux.
 
 After ArchInstall.sh script is done, reboot to the installation, login as root and run /ArchPost.sh to install the GUI and such.
+
+#License
+Public Domain, I see no reason to copyright or claim ownership of the scripts as it's just everything you'd do to install an OS.
